@@ -187,7 +187,6 @@ int main()
                 pobj.CreatePoly();
                 break;
             case 2:
-                cout<<"In case 2\n";
                 pobj.MulPoly();
                 break;
             case 3:
